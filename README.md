@@ -4,17 +4,17 @@ Este es un proyecto de Ecommerce básico desarrollado apra el curso de React en 
 
 ## Tecnologías utilizadas.
 
--React
--Vite
--React Router
--Firebase
+- React
+- Vite
+- React Router
+- Firebase
 
 ## Funcinalidades
 
--Ver una lista de productos disponibles
--Agregar productos al carrito de compras
--Ver el carrito de compras
--finalizar la simulación de venta generando una orden de compra
+- Ver una lista de productos disponibles
+- Agregar productos al carrito de compras
+- Ver el carrito de compras
+- finalizar la simulación de venta generando una orden de compra
 
 ### Instalación
 
