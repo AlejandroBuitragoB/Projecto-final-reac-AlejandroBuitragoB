@@ -19,7 +19,7 @@ getDoc(nuevoDoc)
   const nuevoProducto = {id: res.id, ...data};
   setProducto(nuevoProducto);
 })
-.catch(error => console.log("se prohiben los findes", error))
+.catch(error => console.log("Error Inesperado", error))
 
 
 }, [])

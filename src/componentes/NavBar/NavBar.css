@@ -2,7 +2,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 10px solid darkblue;
+    border-bottom: 10px solid rgb(111, 167, 185);
+    /* background-color: rgb(132, 149, 185); */
 }
 
 li {
@@ -17,4 +18,6 @@ h1{
 
 a{
     text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
 }
